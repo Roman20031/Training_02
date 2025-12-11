@@ -11,6 +11,9 @@ header{
     
 }
 
+h1 {
+  text-align: center;
+}
 .text{
     display: flex;
     justify-content: space-around;
